@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Typ_conv_explicit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\char_get.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Escape_char.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABC61FA-F196-4E2B-92FA-30E3D9891188}|..\\Characters\\Characters.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\char1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q3.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\q3.cpp",
+              "RelativeDocumentMoniker": "..\\Characters\\q3.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\q3.cpp",
+              "RelativeToolTip": "..\\Characters\\q3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T16:08:45.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "q2.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\q2.cpp",
+              "RelativeDocumentMoniker": "..\\Characters\\q2.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\q2.cpp",
+              "RelativeToolTip": "..\\Characters\\q2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T16:00:50.058Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q1.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Q1.cpp",
+              "RelativeDocumentMoniker": "..\\Characters\\Q1.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Q1.cpp",
+              "RelativeToolTip": "..\\Characters\\Q1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T15:50:54.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Typ_conv_explicit.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Typ_conv_explicit.cpp",
+              "RelativeDocumentMoniker": "..\\Characters\\Typ_conv_explicit.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Typ_conv_explicit.cpp",
+              "RelativeToolTip": "..\\Characters\\Typ_conv_explicit.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T15:41:18.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Escape_char.txt",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Escape_char.txt",
+              "RelativeDocumentMoniker": "..\\Characters\\Escape_char.txt",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\Escape_char.txt",
+              "RelativeToolTip": "..\\Characters\\Escape_char.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-28T15:23:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "char_get.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\char_get.cpp",
+              "RelativeDocumentMoniker": "..\\Characters\\char_get.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\char_get.cpp",
+              "RelativeToolTip": "..\\Characters\\char_get.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T15:17:45.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "char1.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\char1.cpp",
+              "RelativeDocumentMoniker": "..\\Characters\\char1.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp4\\Characters\\char1.cpp",
+              "RelativeToolTip": "..\\Characters\\char1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T20:24:12.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

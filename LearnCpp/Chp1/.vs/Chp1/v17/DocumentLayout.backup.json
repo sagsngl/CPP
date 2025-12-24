@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CE51F-7048-4120-94DA-848EE0036681}|..\\FirstProgram\\FirstProgram.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\FirstProgram\\FirstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956CEDF-D251-4B74-9158-AA94B26BE754}|..\\Chp1_6\\Chp1_6.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\Expressions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956CEDF-D251-4B74-9158-AA94B26BE754}|..\\Chp1_6\\Chp1_6.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\MultiLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956CEDF-D251-4B74-9158-AA94B26BE754}|..\\Chp1_6\\Chp1_6.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\Implementation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A956CEDF-D251-4B74-9158-AA94B26BE754}|..\\Chp1_6\\Chp1_6.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\UnInit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D3563D-7BED-4B9C-B8AA-0BEC13C6F920}|Chp1.vcxproj|C:\\Users\\sagar\\OneDrive\\CPP\\Chp1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04D3563D-7BED-4B9C-B8AA-0BEC13C6F920}|Chp1.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\FirstProgram\\FirstProgram.cpp",
+              "RelativeDocumentMoniker": "..\\FirstProgram\\FirstProgram.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\FirstProgram\\FirstProgram.cpp",
+              "RelativeToolTip": "..\\FirstProgram\\FirstProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T03:47:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expressions.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\Expressions.cpp",
+              "RelativeDocumentMoniker": "..\\Chp1_6\\Expressions.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\Expressions.cpp",
+              "RelativeToolTip": "..\\Chp1_6\\Expressions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T03:37:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiLine.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\MultiLine.cpp",
+              "RelativeDocumentMoniker": "..\\Chp1_6\\MultiLine.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\MultiLine.cpp",
+              "RelativeToolTip": "..\\Chp1_6\\MultiLine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T03:10:37.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Implementation.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\Implementation.cpp",
+              "RelativeDocumentMoniker": "..\\Chp1_6\\Implementation.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\Implementation.cpp",
+              "RelativeToolTip": "..\\Chp1_6\\Implementation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T02:47:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T23:12:41.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnInit.cpp",
+              "DocumentMoniker": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\UnInit.cpp",
+              "RelativeDocumentMoniker": "..\\Chp1_6\\UnInit.cpp",
+              "ToolTip": "C:\\Users\\sagar\\OneDrive\\CPP\\Chp1_6\\UnInit.cpp",
+              "RelativeToolTip": "..\\Chp1_6\\UnInit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T23:07:12.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
